@@ -1,0 +1,6 @@
+<map id="DelayMs" name="DelayMs">
+<area shape="rect" id="node2" href="$group__game.html#ga42906baf18e9fcf43d0a139c4832c39e" title="Game_DrawRect" alt="" coords="128,5,251,32"/>
+<area shape="rect" id="node3" href="$group__n_r_f24.html#ga24a0ec145b273d5b8308b2a23fcf0b3d" title="nRF24_Init" alt="" coords="146,56,233,83"/>
+<area shape="rect" id="node4" href="$nrf24network_8c.html#ad5df492fc217aa17be260f4d6946fa08" title="nrf24_NetworkInitN" alt="" coords="299,56,434,83"/>
+<area shape="rect" id="node5" href="$nrf24network_8c.html#aa7e9ed6799603db4a6e08f36cd7f1230" title="Initialize nRF24 Network Module. " alt="" coords="483,56,608,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Task_Init" name="Task_Init">
+<area shape="rect" id="node2" href="$_m_s_p430_f5529_2_game_example_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="352,56,403,83"/>
+<area shape="rect" id="node3" href="$nrf24network_8c.html#ad5df492fc217aa17be260f4d6946fa08" title="nrf24_NetworkInitN" alt="" coords="131,5,266,32"/>
+<area shape="rect" id="node5" href="$uart_8c.html#ace506ef2867a6ee30406b132eb624ed8" title="UART_Init" alt="" coords="157,107,241,133"/>
+<area shape="rect" id="node4" href="$nrf24network_8c.html#aa7e9ed6799603db4a6e08f36cd7f1230" title="Initialize nRF24 Network Module. " alt="" coords="315,5,440,32"/>
+<area shape="rect" id="node6" href="$laser__comms_8h.html#aedffc10b3a2c95e1f1e3af96a9db2941" title="LaserComms_Init" alt="" coords="315,107,440,133"/>
+</map>

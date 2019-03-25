@@ -1,0 +1,4 @@
+<map id="nRF24_SetDataRate" name="nRF24_SetDataRate">
+<area shape="rect" id="node2" href="$group__n_r_f24.html#gad4ca69c919b538e8e17b428e88b88ce3" title="nRF24_ReadReg" alt="" coords="197,5,320,32"/>
+<area shape="rect" id="node3" href="$group__n_r_f24.html#ga0f389e3b3a12efdb2e509aed96c95650" title="nRF24_WriteReg" alt="" coords="197,56,320,83"/>
+</map>

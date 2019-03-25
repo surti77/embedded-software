@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['c',['c',['../structchar__object__t.html#adc08ed1554f35803d229aeaf11216b3f',1,'char_object_t::c()'],['../structmuh__game__t.html#adc08ed1554f35803d229aeaf11216b3f',1,'muh_game_t::c()']]],
+  ['callback',['callback',['../structadc__channel.html#ab06631e875283b06e3f6099adb6caa57',1,'adc_channel::callback()'],['../structgame__t.html#a332632f301bee83a962b87993036df96',1,'game_t::callback()'],['../structsubsystem__t.html#a332632f301bee83a962b87993036df96',1,'subsystem_t::callback()'],['../structbuffer__t.html#a3bf7a92a40822515a7b3bcadf02168e5',1,'buffer_t::Callback()']]],
+  ['ce',['ce',['../structnrf24__radio__t.html#a6b2a9be73c09d76a5ea773eb1003290b',1,'nrf24_radio_t']]],
+  ['ch',['ch',['../_s_t_m32_l475_2main_8c.html#a0523c05685d59544dca911cb6a3db77d',1,'main.c']]],
+  ['channel',['channel',['../structi2c__settings__t.html#a715f5cb061d11eb75981741eda4dafcd',1,'i2c_settings_t::channel()'],['../structnrfnet__s.html#a80a968e961b77811d2931b090eb3e26f',1,'nrfnet_s::channel()'],['../structadc__channel.html#a715f5cb061d11eb75981741eda4dafcd',1,'adc_channel::channel()']]],
+  ['char7bit',['char7bit',['../structhal__spi__settings__t.html#a79cbf0f19007482c9a4bda020a495165',1,'hal_spi_settings_t']]],
+  ['child',['child',['../structnrfnet__msg__t.html#a4138a422a2f9bef29071406b7dd87e64',1,'nrfnet_msg_t']]],
+  ['child_5fstatus',['child_status',['../structnrfnet__s.html#a100b1f1aeed3e5c7d76fb25abfcd7d92',1,'nrfnet_s']]],
+  ['child_5ftime',['child_time',['../structnrfnet__s.html#a6995bff1cc796efa684a882f92df3c6b',1,'nrfnet_s']]],
+  ['color',['color',['../structplayer__info__t.html#a4679d6f226146b7294a3ccb08c09702f',1,'player_info_t']]],
+  ['control_5fhandler',['control_handler',['../structnrfnet__s.html#a47d45c0c9804fcdf2c213edb44ae8963',1,'nrfnet_s']]],
+  ['crap',['crap',['../_p_i_c24_f_2_p_i_c24_f_j256_g_a110_2hal__general_8h.html#ae4ee9a35be02677e73e9a9441d55f516',1,'crap():&#160;hal_spi.c'],['../_p_i_c24_f_2_p_i_c24_f_j256_g_a110_2hal__spi_8c.html#ae4ee9a35be02677e73e9a9441d55f516',1,'crap():&#160;hal_spi.c'],['../_p_i_c32_m_m_2_p_i_c32_m_m0128_g_p_m028_2hal__general_8h.html#ae4ee9a35be02677e73e9a9441d55f516',1,'crap():&#160;hal_spi.c'],['../_p_i_c32_m_x_2_p_i_c32_m_x250_f128_b_2hal__general_8h.html#ae4ee9a35be02677e73e9a9441d55f516',1,'crap():&#160;hal_spi.c'],['../_p_i_c32_m_x_2_p_i_c32_m_x250_f128_b_2hal__spi_8c.html#ae4ee9a35be02677e73e9a9441d55f516',1,'crap():&#160;hal_spi.c'],['../_p_i_c32_m_x_2_p_i_c32_m_x350_f128_h_2hal__general_8h.html#ae4ee9a35be02677e73e9a9441d55f516',1,'crap():&#160;hal_spi.c']]],
+  ['crap_5fbit',['crap_bit',['../structcrap__t.html#af37d718febcd36fedb8ab358ff5734ac',1,'crap_t']]],
+  ['cs_5factive_5flow',['cs_active_low',['../structhal__spi__settings__t.html#a39f686bedf76e6284eae706e008dfc18',1,'hal_spi_settings_t']]],
+  ['csn',['csn',['../structnrf24__radio__t.html#a5d69e012afc88dabb0cc80dd1f7aa133',1,'nrf24_radio_t']]],
+  ['current_5fchild',['current_child',['../structnrfnet__s.html#a812c09fd1fc1ef3e26dad90d29fcbcd2',1,'nrfnet_s']]]
+];

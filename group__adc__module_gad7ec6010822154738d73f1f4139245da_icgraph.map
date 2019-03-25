@@ -1,0 +1,5 @@
+<map id="hal_ADC_StartChannel" name="hal_ADC_StartChannel">
+<area shape="rect" id="node2" href="$group__adc__module.html#ga2e9322a25239ab1adf88a7114f098707" title="ADC_ProcessMeasurementFromISR" alt="" coords="214,31,453,57"/>
+<area shape="rect" id="node3" href="$ds_p_i_c33_2ds_p_i_c33_e_v256_g_m102_2hal__adc_8c.html#a348b663f86a656f5ea991d496ff9b896" title="__attribute__" alt="" coords="502,5,599,32"/>
+<area shape="rect" id="node4" href="$_m_s_p430_2_m_s_p430_f5529_2hal__adc_8c.html#a9ab1a5e13d75160480a1030ed3327c15" title="ADC12_ISR" alt="" coords="503,56,598,83"/>
+</map>

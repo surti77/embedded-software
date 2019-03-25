@@ -1,0 +1,6 @@
+<map id="nRF24_OpenTxPipe" name="nRF24_OpenTxPipe">
+<area shape="rect" id="node2" href="$group__n_r_f24.html#ga0994664b3c2f1c546f7b0e3287997e57" title="nRF24_Standby" alt="" coords="211,31,327,57"/>
+<area shape="rect" id="node5" href="$group__n_r_f24.html#gaec3066d169a31a4abd0ac2cc19866d71" title="nRF24_WriteMultReg" alt="" coords="195,81,343,108"/>
+<area shape="rect" id="node3" href="$group__n_r_f24.html#gab77de623b342cb3b47745fc1eab53979" title="nRF24_FlushRx" alt="" coords="392,5,509,32"/>
+<area shape="rect" id="node4" href="$group__n_r_f24.html#gac26a4f7b836760442756d298089a2101" title="nRF24_FlushTx" alt="" coords="393,56,508,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="nRF24_WriteMultReg" name="nRF24_WriteMultReg">
+<area shape="rect" id="node2" href="$group__n_r_f24.html#ga5ec52c6b7f3b0f93877cfda381014db9" title="nRF24_StartListening" alt="" coords="203,5,351,32"/>
+<area shape="rect" id="node3" href="$group__n_r_f24.html#ga40b59dcaa6fbde431ffec4be01fbf117" title="nRF24_Write" alt="" coords="228,56,327,83"/>
+<area shape="rect" id="node4" href="$group__n_r_f24.html#ga6a700fe579ce6ff5bcea5cf8f62fb9b7" title="nRF24_OpenRxPipe" alt="" coords="206,107,349,133"/>
+<area shape="rect" id="node5" href="$group__n_r_f24.html#gaf59c16021cbb5500d198e1f9e22db157" title="nRF24_OpenTxPipe" alt="" coords="207,157,347,184"/>
+</map>
