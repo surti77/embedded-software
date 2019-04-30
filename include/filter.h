@@ -12,7 +12,7 @@
 *
 *
 * This module defaults to a MovingAvg Filter function. The user is resposible for implementing a filter based on application.
-* It can be changed using the Filter_SetFilter function
+* It can be changed using the Set_Filter function
 *
 *
 *Example, MSP9700 temperature sensor, output voltage directly proportional to measured temperature
@@ -179,7 +179,7 @@ int16_t MovingAvgFilter(int16_t *values, uint16_t index, uint16_t size, int16_t 
 
 /**
 *
-* @brief Method that allows user to pass a function pointer to change the type of filter used by the module
+* @brief Method that allows user to pass a function to a pointer a different type of filter (i.e IIR, FIR)
 *
 * @param new_filter * -  function pointer to the new filter
 *
